@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Http\Controllers;
+namespace Laravel\Http\Controllers;
 
-use App\Mahasiswa;
+use Laravel\Mahasiswa;
 use Illuminate\Http\Request;
 // use Illuminate\Support\Facades\DB;
 
