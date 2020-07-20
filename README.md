@@ -10,11 +10,11 @@ First download or clone this repository
 
     git clone https://github.com/mad-af/lrv-crud.git
 
-Then rename the file [.env.example] to [.env] and comand for get APP_KEY
+Then rename the file '.env.example' to '.env' and comand for get APP_KEY
 
     php artisan key:generate
 
-check and create a MySQL database according to the configuration in [.env]. 
+check and create a MySQL database according to the configuration in '.env'. 
 Do the command to create the required table
 
     php artisan migrate
